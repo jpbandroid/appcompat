@@ -49,6 +49,8 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
+
+        project.version = "1.0.0"
     }
 
     buildTypes {
@@ -63,6 +65,12 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+}
+
+android.libraryVariants.all { variant ->
+    variant.outputs.all {
+        outputFileName = "AppCompat-${project.version}.aar"
     }
 }
 
