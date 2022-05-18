@@ -2,6 +2,7 @@ package com.jpb.appcompat
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.jpb.appcompat.locale.LocaleDelegate
 
 class ExtendedAppCompatActivity : AppCompatActivity() {
 
