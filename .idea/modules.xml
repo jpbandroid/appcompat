@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/appcompat.iml" filepath="$PROJECT_DIR$/.idea/modules/appcompat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/appcompat.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appcompat.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/appcompat.main.iml" filepath="$PROJECT_DIR$/.idea/modules/appcompat.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/appcompat.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/appcompat.unitTest.iml" />
     </modules>

@@ -4,7 +4,7 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.jpb.appcompat.locale.LocaleDelegate
 
-class ExtendedAppCompatActivity : AppCompatActivity() {
+open class ExtendedAppCompatActivity : AppCompatActivity() {
 
     private val localeDelegate by lazy {
         LocaleDelegate()
