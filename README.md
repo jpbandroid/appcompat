@@ -1,4 +1,4 @@
-# appcompat
+# appcompat [![](https://jitpack.io/v/jpbandroid/appcompat.svg)](https://jitpack.io/#jpbandroid/appcompat)
 Some extensions to AppCompatActivity to help with in-app locale selection and dark mode
 ## Original Licenses
 For Locale extensions:
