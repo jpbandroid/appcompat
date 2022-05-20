@@ -50,7 +50,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
 
-        project.version = "1.0.0"
+        project.version = "1.0.1"
     }
 
     buildTypes {
